@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tache2-React-Api/static/css/main.8003241c.css",
+    "main.js": "/Tache2-React-Api/static/js/main.1c2e053d.js",
+    "static/js/787.d1fba59b.chunk.js": "/Tache2-React-Api/static/js/787.d1fba59b.chunk.js",
+    "static/media/weather1.jpg": "/Tache2-React-Api/static/media/weather1.568dfb8e35c5b5f91812.jpg",
+    "index.html": "/Tache2-React-Api/index.html",
+    "main.8003241c.css.map": "/Tache2-React-Api/static/css/main.8003241c.css.map",
+    "main.1c2e053d.js.map": "/Tache2-React-Api/static/js/main.1c2e053d.js.map",
+    "787.d1fba59b.chunk.js.map": "/Tache2-React-Api/static/js/787.d1fba59b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8003241c.css",
+    "static/js/main.1c2e053d.js"
+  ]
+}
