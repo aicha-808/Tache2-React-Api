@@ -32,7 +32,7 @@ class App extends React.Component {
       const {ville, apiKey} = this.state;
 
       if (ville) {
-        axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${ville}&appid=${apiKey}`)
+        axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${ville}&appid=${apiKey}`)
 
         .then(response => {
             this.setState({results: response.data})
