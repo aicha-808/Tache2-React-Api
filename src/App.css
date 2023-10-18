@@ -1,0 +1,33 @@
+.Api {
+  /* text-align: center; */
+  width: 50%;
+  margin: auto;
+  background-color: rgb(231, 191, 116, 0.7) !important;
+  padding: 1rem;
+}
+body{
+  height: 100vh;
+  background-image: url("./weather1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input{
+  width: 60%;
+  padding: 0.7rem;
+  background-color: rgb(245, 230, 230);
+}
+button{
+  background-color: rgb(231, 191, 116) !important;
+}
+.sun{
+  width: 30px !important;
+  height: 30px !important;
+  border-radius: 100% !important;
+  margin: auto;
+  background-color: orange !important;
+}
+.country{
+  color: orange !important;
+}
+
+
